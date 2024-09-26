@@ -2,7 +2,7 @@
 
 *lime
 *salt
-*avocado
+*apple
 
 # Instructions
 

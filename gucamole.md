@@ -1,3 +1,8 @@
 # Ingredients
+
+*lemon
+*salt
+*avocado
+
 # Instructions
 
